@@ -24,6 +24,3 @@ O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)
 2. Remove Constants
 3. Different terms for inputs
 4. Drop Non Dominants
-
-### 이력
-24.03.28 생성
